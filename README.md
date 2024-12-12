@@ -39,3 +39,11 @@ DB_USERNAME=root
 DB_PASSWORD=your_password
 DB_DATABASE=your_database
 ```
+
+## Swagger
+Swagger 기능 추가
+
+### 예시
+1. http://localhost:3000/api 접속
+2. GET users에서 회원 목록 호출
+3. POST users에서 새로운 회원 등록
